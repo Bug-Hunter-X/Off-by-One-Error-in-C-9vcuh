@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates a common off-by-one error.  The bug is explained, and a corrected version is provided.  This is a useful example for learning about potential pitfalls in C programming and how to identify and resolve them.
